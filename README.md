@@ -24,7 +24,7 @@ This project aims to predict energy prices for the day-ahead market to optimize 
      - **Prophet**: A model designed for forecasting time series data with daily observations that display patterns on different time scales.
 
 3. **Asset Optimization**:
-   - After obtaining the predictions, the notebook provides approaches to optimize the battery asset to maximize revenue.
+   - After obtaining the predictions, the notebook provides approaches to optimize the battery asset to maximize revenue (but does not provide a functional code).
 
 ## Dependencies
 - Python 3.x
@@ -43,4 +43,4 @@ pip install -r requirements.txt
 ```
 
 ## Conclusion
-This project provides a comprehensive framework for predicting day-ahead energy prices using various models. The provided notebook offers a solid foundation for further experimentation and improvement in forecasting and optimization techniques.
+This project provides a case study of predicting day-ahead energy prices using ML models. The provided notebook offers a foundation for further experimentation and improvement in forecasting and optimization.
